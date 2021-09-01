@@ -5,4 +5,4 @@ You can use the website to visualize the following sorting algorthims:
 Bubble Sort
 Merge Sort
 Quick Sort
-You can find the website here
+You can find the website https://Nuthan-M.github.io/Sorting-Visualizer/
